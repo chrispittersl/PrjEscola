@@ -1,0 +1,11 @@
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\PrjEscola\PrjEscola\bin\Release\PrjEscola.exe
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\PrjEscola\PrjEscola\bin\Release\PrjEscola.pdb
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\PrjEscola\PrjEscola\obj\x86\Release\PrjEscola.frmCadastroAlunos.resources
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\PrjEscola\PrjEscola\obj\x86\Release\PrjEscola.frmCadDisc.resources
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\PrjEscola\PrjEscola\obj\x86\Release\PrjEscola.frmConAlunos.resources
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\PrjEscola\PrjEscola\obj\x86\Release\PrjEscola.frmConDisc.resources
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\PrjEscola\PrjEscola\obj\x86\Release\PrjEscola.frmMenu.resources
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\PrjEscola\PrjEscola\obj\x86\Release\PrjEscola.Properties.Resources.resources
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\PrjEscola\PrjEscola\obj\x86\Release\PrjEscola.csproj.GenerateResource.Cache
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\PrjEscola\PrjEscola\obj\x86\Release\PrjEscola.exe
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\PrjEscola\PrjEscola\obj\x86\Release\PrjEscola.pdb

@@ -1,0 +1,19 @@
+C:\Users\Christopher\AppData\Local\Temporary Projects\PrjEscola\bin\Debug\PrjEscola.exe
+C:\Users\Christopher\AppData\Local\Temporary Projects\PrjEscola\bin\Debug\PrjEscola.pdb
+C:\Users\Christopher\AppData\Local\Temporary Projects\PrjEscola\obj\x86\Debug\PrjEscola.frmMenu.resources
+C:\Users\Christopher\AppData\Local\Temporary Projects\PrjEscola\obj\x86\Debug\PrjEscola.Properties.Resources.resources
+C:\Users\Christopher\AppData\Local\Temporary Projects\PrjEscola\obj\x86\Debug\PrjEscola.csproj.GenerateResource.Cache
+C:\Users\Christopher\AppData\Local\Temporary Projects\PrjEscola\obj\x86\Debug\PrjEscola.exe
+C:\Users\Christopher\AppData\Local\Temporary Projects\PrjEscola\obj\x86\Debug\PrjEscola.pdb
+C:\Users\Christopher\documents\visual studio 2010\Projects\PrjEscola\PrjEscola\obj\x86\Debug\PrjEscola.exe
+C:\Users\Christopher\documents\visual studio 2010\Projects\PrjEscola\PrjEscola\obj\x86\Debug\PrjEscola.pdb
+C:\Users\Christopher\documents\visual studio 2010\Projects\PrjEscola\PrjEscola\obj\x86\Debug\PrjEscola.frmCadastroAlunos.resources
+C:\Users\Christopher\documents\visual studio 2010\Projects\PrjEscola\PrjEscola\obj\x86\Debug\PrjEscola.frmMenu.resources
+C:\Users\Christopher\documents\visual studio 2010\Projects\PrjEscola\PrjEscola\obj\x86\Debug\PrjEscola.Properties.Resources.resources
+C:\Users\Christopher\documents\visual studio 2010\Projects\PrjEscola\PrjEscola\obj\x86\Debug\PrjEscola.csproj.GenerateResource.Cache
+C:\Users\Christopher\documents\visual studio 2010\Projects\PrjEscola\PrjEscola\bin\Debug\PrjEscola.exe
+C:\Users\Christopher\documents\visual studio 2010\Projects\PrjEscola\PrjEscola\bin\Debug\PrjEscola.pdb
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\PrjEscola\PrjEscola\obj\x86\Debug\PrjEscola.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\PrjEscola\PrjEscola\obj\x86\Debug\PrjEscola.frmCadDisc.resources
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\PrjEscola\PrjEscola\obj\x86\Debug\PrjEscola.frmConAlunos.resources
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\PrjEscola\PrjEscola\obj\x86\Debug\PrjEscola.frmConDisc.resources
